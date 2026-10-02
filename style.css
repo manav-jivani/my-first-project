@@ -558,6 +558,7 @@ select:hover {
     gap: 30px;
     margin-top: -33%;
     margin-left: 50%;
+    color: rgb(84, 208, 181);
     
 }
 
@@ -857,7 +858,7 @@ select:hover {
         radial-gradient(circle at 90% 45%, #9678a9, transparent 40%),
         #d1d1e9;
     justify-content: flex-end;
-    background-image:url('IMG 46.png');
+    background-image:url('img.px/img 46.png');
     background-size: cover;
     background-position: left bottom ;
     background-repeat: no-repeat;
